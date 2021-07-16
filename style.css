@@ -1,0 +1,17 @@
+body{
+color: rgb(83, 19, 233);
+background: linear-gradient(#15eb0d 0%,#13e3ed 100%);
+}
+.heading{
+width: 80%;
+font-size: 22px;
+background-color: darkgreen;
+}
+#camera{
+width: 350px;
+height: 300px;
+border: 3px solid rgb(169, 206, 212);
+}
+.name_of_object,#result_object_name,#result_object_accuracy{
+color: crimson;
+}
